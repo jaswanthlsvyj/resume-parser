@@ -1,0 +1,53 @@
+{
+    "name": "John Doe",
+    "contact": {
+        "email": "john.doe@example.com",
+        "phone": "+1 (555) 555-5555",
+        "address": "123 Main St, Anytown, USA"
+    },
+    "summary": "Experienced software engineer with a strong background in developing scalable web applications and working with cross-functional teams.",
+    "experience": [
+        {
+            "job_title": "Senior Software Engineer",
+            "company": "TechCorp",
+            "location": "San Francisco, CA",
+            "start_date": "January 2018",
+            "end_date": "Present",
+            "description": "Lead a team of 5 engineers to develop a real-time analytics platform. Implemented microservices architecture using Node.js and Docker."
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "WebSolutions",
+            "location": "San Francisco, CA",
+            "start_date": "June 2015",
+            "end_date": "December 2017",
+            "description": "Developed and maintained client-side applications using React.js. Collaborated with UX designers to improve application usability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "university": "University of California, Berkeley",
+            "location": "Berkeley, CA",
+            "graduation_year": "2015"
+        }
+    ],
+    "skills": ["JavaScript", "Python", "Java", "React.js", "Node.js", "Express.js"],
+    "certifications": [
+        {
+            "certification": "Certified Kubernetes Administrator (CKA)",
+            "issuer": "CNCF",
+            "date": "June 2020"
+        }
+    ],
+    "projects": [
+        {
+            "project_name": "Real-Time Chat Application",
+            "description": "Built a real-time chat application using WebSocket and Node.js. Integrated MongoDB for message storage and retrieval.",
+            "technologies": ["WebSocket", "Node.js", "MongoDB"],
+            "link": "https://github.com/johndoe/chat-app"
+        }
+    ],
+    "languages": ["English", "Spanish"]
+}
